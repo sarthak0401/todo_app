@@ -1,7 +1,7 @@
 # from functions import get_todos, write_todo
 # we can call this approach if there are very less functions
 
-from modules import functions
+from PYTHON_Ardit.todo_app import functions
 import time 
 
 print(f"Today is : {time.strftime("%b %d,%Y - %H:%M:%S")}")
