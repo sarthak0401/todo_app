@@ -1,0 +1,11 @@
+[
+{
+    "question_text": "Where do i live ?", 
+    "Alternatives": ["NGP", "ND", "Guwahati"], 
+    "Correct_ans": 0 },
+{
+    "question_text":"What is the capital of India ?",
+    "Alternatives": ["ND","MUM"],
+    "Correct_ans" : 0
+}
+]
